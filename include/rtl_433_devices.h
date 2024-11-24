@@ -88,6 +88,7 @@
     DECL(fineoffset_wh45)            \
     DECL(fineoffset_wn34)            \
     DECL(fineoffset_ws80)            \
+    DECL(fineoffset_ws90)            \
     DECL(flowis)                     \
     DECL(fordremote)                 \
     DECL(fs20)                       \
@@ -248,7 +249,7 @@
     DECL(yale_hsa)                   \
     /* Add new decoders here. */
 #  define NUMOF_OOK_DEVICES 157
-#  define NUMOF_FSK_DEVICES 80
+#  define NUMOF_FSK_DEVICES 81
 /* Add new decoders here. */
 #else
 /**
